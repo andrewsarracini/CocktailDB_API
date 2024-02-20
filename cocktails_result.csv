@@ -1,0 +1,101 @@
+cocktail_id,cocktail_name,num_ingredients,ingredients,alcoholic,acidic
+11470,Havana Cocktail,3,"Light rum, Pineapple juice, Lemon juice",True,False
+11149,Boxcar,5,"Gin, Triple sec, Lemon juice, Grenadine, Egg white",True,False
+11053,Arise My Love,2,"Champagne, Green Creme de Menthe",True,False
+12452,Victory Collins,5,"Vodka, Lemon juice, Grape juice, Powdered sugar, Orange",True,True
+12654,Banana Milk Shake,4,"Milk, Orange juice, Sugar syrup, Banana",False,False
+11658,Loch Lomond,4,"Scotch, Drambuie, Dry Vermouth, Lemon peel",True,False
+11566,Jewel Of The Nile,3,"Gin, Green Chartreuse, Yellow Chartreuse",True,False
+17250,Corpse Reviver,5,"Gin, Triple Sec, Lillet Blanc, Lemon Juice, Absinthe",True,False
+12630,Rail Splitter,3,"Sugar syrup, Lemon juice, Ginger ale",False,False
+14209,Mocha-Berry,4,"Coffee, Chambord raspberry liqueur, Cocoa powder, Whipped cream",True,False
+11991,Queen Elizabeth,3,"Dry Vermouth, Gin, Benedictine",True,False
+15691,Zoksel,7,"Beer, Root beer, Lemonade, Coca-Cola, 7-Up, Creme de Cassis, Lemon",True,True
+12087,Rum Milk Punch,4,"Light rum, Milk, Powdered sugar, Nutmeg",True,False
+15182,After sex,3,"Vodka, Creme de Banane, Orange juice",True,False
+12770,Iced Coffee,4,"Coffee, Sugar, Water, Milk",False,False
+15224,Malibu Twister,3,"Malibu rum, Tropicana, Cranberry juice",True,False
+13940,69 Special,3,"Gin, 7-Up, Lemon juice",True,False
+11407,Gin Cooler,5,"Gin, Carbonated water, Powdered sugar, Orange spiral, Lemon peel",True,False
+11602,Kentucky B And B,2,"Bourbon, Benedictine",True,False
+12820,Irish Cream,5,"Scotch, Half-and-half, Condensed milk, Coconut syrup, Chocolate syrup",True,False
+13032,Spiced Peach Punch,6,"Peach nectar, Orange juice, Brown sugar, Cinnamon, Cloves, Lime juice",False,False
+17835,Abilene,3,"Dark rum, Peach nectar, Orange juice",True,False
+178367,Ramos Gin Fizz,7,"Gin, Lemon Juice, Sugar Syrup, Cream, Egg White, Vanilla extract, Soda Water",True,False
+11121,Bobby Burns Cocktail,4,"Sweet Vermouth, Scotch, Benedictine, Lemon peel",True,False
+12670,Fruit Cooler,7,"Apple juice, Strawberries, Sugar, Lemon, Apple, Soda water, Ice",False,True
+12762,Grizzly Bear,4,"Amaretto, Jägermeister, Kahlua, Milk",True,False
+17191,Planter's Punch,4,"Dark rum, Orgeat syrup, Orange juice, Pineapple juice",True,False
+178322,Spice 75,6,"Sugar, Allspice, Rum, Lime Juice, Champagne, Orange spiral",True,False
+11034,Angel Face,3,"Apricot brandy, Apple brandy, Gin",True,False
+14209,Mocha-Berry,4,"Coffee, Chambord raspberry liqueur, Cocoa powder, Whipped cream",True,False
+17839,Affair,4,"Strawberry schnapps, Orange juice, Cranberry juice, Club soda",True,False
+14356,Blind Russian,5,"Baileys irish cream, Godiva liqueur, Kahlua, Butterscotch schnapps, Milk",True,False
+15328,Zorro,3,"Sambuca, Baileys irish cream, White Creme de Menthe",True,False
+12091,Rum Screwdriver,2,"Light rum, Orange juice",True,False
+14282,California Root Beer,3,"Kahlua, Galliano, Soda water",True,False
+12436,Van Vleet,3,"Light rum, Maple syrup, Lemon juice",True,False
+178316,Honey Bee,3,"White Rum, Honey, Lemon Juice",True,False
+178332,Smashed Watermelon Margarita,7,"Watermelon, Mint, Grapefruit Juice, Lime, Tequila, Watermelon, Mint",True,True
+11202,Caipirinha,3,"Sugar, Lime, Cachaca",True,True
+11034,Angel Face,3,"Apricot brandy, Apple brandy, Gin",True,False
+15521,Swedish Coffee,3,"Coffee, Aquavit, Sugar",True,False
+11004,Whiskey Sour,5,"Blended whiskey, Lemon, Powdered sugar, Cherry, Lemon",True,True
+178355,Mountain Bramble,6,"Gin, Lemon Juice, Sugar Syrup, Blackberries, Soda Water, Mint",True,False
+12138,Scotch Cobbler,5,"Scotch, Brandy, Curacao, Orange, Mint",True,True
+11010,After Dinner Cocktail,4,"Apricot brandy, Triple sec, Lime, Lime",True,True
+17250,Corpse Reviver,5,"Gin, Triple Sec, Lillet Blanc, Lemon Juice, Absinthe",True,False
+12436,Van Vleet,3,"Light rum, Maple syrup, Lemon juice",True,False
+17006,Kool First Aid,2,"151 proof rum, Kool-Aid",True,False
+16951,Kioki Coffee,3,"Kahlua, Brandy, Coffee",True,False
+11255,Clove Cocktail,3,"Sweet Vermouth, Sloe gin, Wine",True,False
+17065,Caribbean Boilermaker,2,"Corona, Light rum",True,False
+13971,Irish Coffee,4,"Irish whiskey, Coffee, Sugar, Whipped cream",True,False
+17836,Acapulco,6,"Light rum, Triple sec, Lime juice, Sugar, Egg white, Mint",True,False
+16405,A Piece of Ass,4,"Amaretto, Southern Comfort, Ice, Sour mix",True,False
+12362,Tequila Fizz,5,"Tequila, Lemon juice, Grenadine, Egg white, Ginger ale",True,False
+14446,Kool-Aid Slammer,2,"Kool-Aid, Vodka",True,False
+14594,Zizi Coin-coin,4,"Cointreau, Lemon juice, Ice, Lemon",True,True
+11670,Lord And Lady,2,"Dark rum, Tia maria",True,False
+178336,Blueberry Mojito,5,"Dark Rum, Lime Juice, Sugar, Blueberries, Lemon-lime soda",True,False
+11242,Chicago Fizz,6,"Light rum, Port, Lemon, Powdered sugar, Egg white, Carbonated water",True,True
+178333,Raspberry Julep,3,"Bourbon, Raspberry syrup, Mint",True,False
+16273,Shark Attack,3,"Lemonade, Water, Vodka",True,False
+17827,Old Pal,3,"Rye whiskey, Campari, Dry Vermouth",True,False
+16485,Flaming Lamborghini,4,"Kahlua, Sambuca, Blue Curacao, Baileys irish cream",True,False
+11423,Godfather,2,"Scotch, Amaretto",True,False
+13499,Oreo Mudslide,5,"Vodka, Kahlua, Baileys irish cream, Vanilla ice-cream, Oreo cookie",True,False
+16202,Amaretto Sweet & Sour,4,"Amaretto, Sweet and sour, Midori melon liqueur, Pineapple juice",True,False
+17189,Monkey Gland,4,"Gin, Benedictine, Orange juice, Grenadine",True,False
+15178,Texas Rattlesnake,4,"Yukon Jack, Cherry brandy, Southern Comfort, Sweet and sour",True,False
+11170,Brandy Sour,5,"Brandy, Lemon, Powdered sugar, Lemon, Cherry",True,True
+17824,The Laverstoke,7,"Gin, Elderflower cordial, Rosso Vermouth, Tonic Water, Lime, Ginger, Mint",True,True
+11288,Cuba Libre,3,"Light rum, Lime, Coca-Cola",True,True
+17180,Aviation,3,"Gin, lemon juice, maraschino liqueur",True,False
+178316,Honey Bee,3,"White Rum, Honey, Lemon Juice",True,False
+13971,Irish Coffee,4,"Irish whiskey, Coffee, Sugar, Whipped cream",True,False
+14598,50/50,3,"Vanilla vodka, Grand Marnier, Orange juice",True,False
+12798,Coffee Liqueur,5,"Coffee, Vanilla extract, Sugar, Vodka, Water",True,False
+16047,Campari Beer,2,"Lager, Campari",True,False
+11012,Alabama Slammer,4,"Southern Comfort, Amaretto, Sloe gin, Lemon juice",True,False
+15801,Zimadori Zinger,2,"Midori melon liqueur, Zima",True,False
+178335,Lazy Coconut Paloma,3,"Coconut Liqueur, Grapefruit Juice, Soda Water",True,False
+178339,The Strange Weaver,7,"Light Rum, Gin, Sweet Vermouth, Campari, Lemon Juice, Orgeat Syrup, Orange Peel",True,False
+12442,Vermouth Cassis,3,"Dry Vermouth, Creme de Cassis, Carbonated water",True,False
+17168,Amaretto Sunset,4,"Triple sec, Amaretto, Cider, Ice",True,False
+178311,Broadside,5,"151 proof rum, Scotch, Bitters, Wormwood, Ice",True,False
+11420,Gin Toddy,4,"Gin, Water, Powdered sugar, Lemon peel",True,False
+11224,Casino Royale,5,"Gin, Lemon juice, Maraschino liqueur, Orange bitters, Egg yolk",True,False
+17198,French Connection,2,"Cognac, Amaretto",True,False
+11991,Queen Elizabeth,3,"Dry Vermouth, Gin, Benedictine",True,False
+15403,Vodka Russian,2,"Vodka, Schweppes Russchian",True,False
+15825,Jamaican Coffee,4,"Rum, Coffee, Water, Whipped cream",True,False
+178357,Pornstar Martini,5,"Vodka, Passoa, Passion fruit juice, Lime, Prosecco",True,True
+11147,Bourbon Sour,5,"Bourbon, Lemon juice, Sugar, Orange, Maraschino cherry",True,True
+11604,Kentucky Colonel,3,"Bourbon, Benedictine, Lemon peel",True,False
+11007,Margarita,4,"Tequila, Triple sec, Lime juice, Salt",True,False
+178306,Slippery Nipple,2,"Sambuca, Irish cream",True,False
+178368,Planter’s Punch,6,"Dark Rum, Orange Juice, Pineapple Juice, Grenadine, Sugar Syrup, Angostura Bitters",True,False
+11416,Gin Smash,6,"Gin, Carbonated water, Sugar, Mint, Orange, Cherry",True,True
+17194,White Lady,3,"Gin, Triple Sec, Lemon Juice",True,False
+178328,Funk and Soul,5,"Rum, Apricot Nectar, Pomegranate juice, lemon, Soda Water",True,False

@@ -12,3 +12,10 @@ Further developments are in progress;
 - Additional columns to further aid classification and filtration.
 
 ### PowerPoint Presentation, Meet Molly!
+![Image](https://github.com/andrewsarracini/CocktailDB_API/blob/main/Images/BB_Molly.png) 
+![Image](https://github.com/andrewsarracini/CocktailDB_API/blob/main/Images/BB_Microsoft.png)
+![Image](https://github.com/andrewsarracini/CocktailDB_API/blob/main/Images/BB_Questions.png)
+![Image](https://github.com/andrewsarracini/CocktailDB_API/blob/main/Images/BB_Process.png)
+![Image](https://github.com/andrewsarracini/CocktailDB_API/blob/main/Images/BB_Solution.png)
+![Image](https://github.com/andrewsarracini/CocktailDB_API/blob/main/Images/BB_End.png) 
+
